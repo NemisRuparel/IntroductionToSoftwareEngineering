@@ -1,0 +1,73 @@
+<mxfile host="Electron" modified="2025-02-25T10:11:10.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="QqEwWOwekq2fsAH99tEi" version="21.6.8" type="device">
+  <diagram name="Page-1" id="aXCC0oJSLBmTuWizUFj1">
+    <mxGraphModel dx="4783" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="720" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1040" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-2" value="Register User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-4" value="OTP Verification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-5" value="Manage Users &amp;amp; Their Accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-7" value="Reedem Bonus points" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-8" value="Tansaction History" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-9" value="Check Bank Balance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-10" value="PayBills / Recharge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-11" value="Make Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-12" value="Remove Bank Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-13" value="Add Bank Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-14" value="Forgot Password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-15" value="LogIn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-17" value="Enable/Disable Security Features" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-18" value="Update Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-19" value="Submit Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-20" value="Contact Support" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-21" value="Monitor &amp;amp; Flag Fraud Transactions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-22" value="Generate Reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxTopbZzm7PlHRq4zg9C-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Admin&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1040" width="80" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
