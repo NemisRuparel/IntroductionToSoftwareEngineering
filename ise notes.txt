@@ -1,0 +1,112 @@
+ch.1  :  Software Development Process Models
+
+WHAT IS SOFTWARE ?
+Definition : 
+	Software is collection or set of computer programs, procedures, rules or associated documents
+	it includes audio, video, images etc.
+
+WHAT IS SOFTWARE ENGINEERING ? 
+Definition :
+	Software engineering is an enginnering aprroach that covers various stages from planning to maintanance stage
+
+SOFTWARE APPLICATION DOMAIN
+	Area of software that it can operate easily
+
+TYPES OF SOFTWARE 
+mainly 2 types : Application Software
+			     System Software
+
+APPLICATION SOFTWARE : 
+--> User requirement
+--> Designed to fulfill user requirements
+--> Ex., MS Excel, Browser
+
+SYSTEM SOFTWARE : 
+--> interface b/w software & hardware 
+--> Designed to manage control of hardware and software 
+--> Ex., OS, Drivers
+
+CHARACTERISTICS OF GOOD SOFTWARE : 
+	1.Maintainability
+	2.Budget friendly 
+	3.Reliability 
+	4.Readability
+	5.Reusability
+	6.Modularity
+	7.Functionality
+	8.Portability
+	9.Proper Documentation
+	10.Correctness
+
+SPECIAL CHARACTERISTICS OF SOFTWARE :  
+	1.Software doesn't wear out 
+		any hardware after long use it can be damaged but in case of software it can't be damages , through maintanance it can be upadatable
+		it can't affected by "environmental effects"
+	2. Software is engineered not manufactured 
+		Hardware can't be modifieble but softeware can modifieble for use later on
+	3. Reusability of component 
+		Once software created it should be scalable , it should have ability to reuse its components
+	4. Software is flexible for custom built 
+		Software is manufactured from gathering user requirements and for fulfill requirements 
+
+
+PROGRAM V/S SOFTWARE 
+	1. small in size				1.large in size
+	2. single developer 			2. team of developer
+	3. may not be structured		3. well structured
+	4. may not be scalable			4. can be scalable
+	5. no or less documentation	5. well documented
+	6. may not be maintainable	6. maintainable
+
+SOFTWARE ENGINEERING LAYERED APPROACH : 
+Four Layers 
+	1. Quality 
+		it is first layer of layered approach
+		software mainly focuses on quality
+		it checks wheather output satisfies user's requirement  or not 
+		every organization should focus on its software quality		
+
+	2. Process
+		it is second layer of layered approach
+		it is heart of software engineering		
+		main idea behind add process in layered approach is to delivery good software in timely manner
+
+	3. Method 
+		it is third layer of layered approach
+		it describes 'how  to build' and in which method software should be developed
+
+	4. Tools
+		it is fourth and last layer of layered approach
+		it executes process in proper layer 
+		it supports of its above layer
+
+WHY SOFTWARE ENGINEERING ?
+	1. To develop hugh quality software product
+	2. To develop large problems
+	3. To achieve skill of problem solving
+	4. To construct project with agreed cost
+	5. To deliver product with timely manner
+	6. To become good programmer / developer
+
+UMBRELLA ACTIVITIES
+	"Please Follow Simple Rules During Real Software"
+	1. P – Project Tracking & Control
+	2. F – Formal Technical Review
+	3. S – Software Quality Assurance (SQA)
+	4. R – Risk Management
+	5. D – Document Preparation & Production
+	6. R – Reusability Management
+	7. S – Software Configuration Management (SCM)
+
+GENERIC PROCESS FRAMEWORK
+	1. Communication
+	2. Planning
+	3. Modeling
+	4. Construct
+	5. Deployment
+
+SOFTWARE DEVELOPMENT LIFE CYCLE
+	1. Birth/Dead
+	2. Development
+	3. Maturity
+	4. Maintenance
