@@ -236,9 +236,49 @@ AGILE DEVELOPMENT MODEL
 	4. Enhance
  	5. Re-release
 	
+	Types : 
+		- Scrum
+		- XP 	
+
 	Advantages : 
 		FrequentDelivery, FaceToFaceCommunication, LessTimeConsuming
 	
 	Disadvantages : 
 		LessDocumentation, RegularMaintananceRequired
 
+
+SCRUM MODEL 
+	Most popular agile methodology
+	Lightweight (not complex), iterative (step by step), incremental framework
+	Scrum breakdowns thedevelopment phases into stages or cycles called as "SPIRINTS"
+	Time boundary is here
+	One spirint at a time
+	Team has scrum master and product owner with constant communication on dialy basis
+	Widely Used
+
+	Daily Scrum  : daily meeting of duration 10 to 15 minutes
+	Backlog : Form where all details of product is mentioned 
+	Scrum master : monitor of team that communicates with client
+	Product Owner : Client 
+	
+	Advantages : 
+		Freedom, HighQuality, LowRiskProduct, LessTimeConsuming, CustomerSatisfaction, Reviewing
+
+	Disadvantages :
+		MoreEfficientForSmallTeam (not for large teams), NoChangesInTheSpirint
+		
+
+eXTREME PROGRAMMING (XP) MODEL
+	Suggest quick release 
+ 	bugs can be detact easily
+        can be monitoring that how product works
+
+	Advantages : 
+		WellPerformance, LessDocumentationNeeded
+
+	Disadvantages : 
+		Time consuming, HighCost   
+		
+
+	
+		
