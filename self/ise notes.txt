@@ -282,3 +282,21 @@ eXTREME PROGRAMMING (XP) MODEL
 
 	
 		
+
+
+CH.2 : SOFTWARE REQUIREMENT ANALYSIS AND DESIGN 
+
+
+REQUIREMENT GATHERING & ANALYSIS
+ Requirement : 
+	Description and functionalities of the target   system 
+	Describes the system that what the system should do 
+
+
+
+
+
+
+
+
+
