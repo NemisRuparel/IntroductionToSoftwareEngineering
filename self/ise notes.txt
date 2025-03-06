@@ -6,7 +6,7 @@ Definition :
 	Software is collection or set of computer programs, procedures, rules or associated documents
 	it includes audio, video, images etc.
 
-
+*
 WHAT IS SOFTWARE ENGINEERING ? 
 Definition :
 	Software engineering is an enginnering aprroach that covers various stages from planning to maintanance stage
@@ -261,6 +261,11 @@ SCRUM MODEL
 	Scrum master : monitor of team that communicates with client
 	Product Owner : Client 
 	
+		theme : target to achieve 
+		epic : key solution to achieve target 
+		story : small task to compete epic
+
+
 	Advantages : 
 		Freedom, HighQuality, LowRiskProduct, LessTimeConsuming, CustomerSatisfaction, Reviewing
 
@@ -278,25 +283,3 @@ eXTREME PROGRAMMING (XP) MODEL
 
 	Disadvantages : 
 		Time consuming, HighCost   
-		
-
-	
-		
-
-
-CH.2 : SOFTWARE REQUIREMENT ANALYSIS AND DESIGN 
-
-
-REQUIREMENT GATHERING & ANALYSIS
- Requirement : 
-	Description and functionalities of the target   system 
-	Describes the system that what the system should do 
-
-
-
-
-
-
-
-
-
